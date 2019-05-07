@@ -9,11 +9,11 @@ There are some major libs we use:
 
 ### [Typescript](https://www.typescriptlang.org/)
 
-Type errors found within compile type - it's beautiful.
+Type errors are found within compile time - it's beautiful.
 
 ### [React](https://reactjs.org/)
 
-We are also using [react hooks](https://reactjs.org/docs/hooks-reference.html). All the components are functional components (except the ones that should be inherited from lib's class components, like nextjs root "App" component).
+React. We are also using [react hooks](https://reactjs.org/docs/hooks-reference.html). All the components are functional components (except the ones that should be inherited from lib's class components, like nextjs root "App" component).
 
 ### [Next](https://nextjs.org/)
 
