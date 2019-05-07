@@ -1,6 +1,7 @@
 # Introduction
 
 * [Techincal information](#techincal-information)
+* [Development cycle](#development-cycle)
 * [About the project](#about-the-project)
 
 ## Techincal information
@@ -34,6 +35,40 @@ I've mentioned we're using react hooks. Basic hooks come with React. But this cu
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/schettino/react-request-hook/master/other/type-hint.png" width="599">
 </p>
+
+## Development cycle
+
+All the development is happening here, in github. If you find some bugs or places in code to improve - please, don't hesitate, [file new issues](https://github.com/prometheonsystems/bedrock-client2/issues/new).
+
+Of course, if you need any help, you can contact me, Jerry Green - https://t.me/jerrygreen, but if questions are related to an issue - let's keep the conversation in the issue.
+
+Also, since you're reading this introduction, you are new to the project. Please, start with this type of issues:
+
+* [`good first issue`](https://github.com/prometheonsystems/bedrock-client2/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+So the overall cycle is this:
+
+1. [You take an issue](https://github.com/prometheonsystems/bedrock-client2/issues?q=is%3Aopen+is%3Aissue+project%3Aprometheonsystems%2Fbedrock-client2%2F1), assign to yourself (note, it's not any issue - only these that are [in the project](https://github.com/prometheonsystems/bedrock-client2/projects/1))
+2. You create a branch named like `@yourgithubnickname/any-text-you-wish`, for example - `@jerrygreen/data-inbox`
+3. You code, make commits, push it
+4. You [make a Pull Request](https://github.com/prometheonsystems/bedrock-client2/compare) for your branch to be merged in master
+5. We discuss it, fix it, untill it's merged
+
+In Pull Request, please, note the issues you are fixing, in the description. Make descriptions like this (or, more detailed):
+
+```
+A lot of core functionality
+
+Closes #11 
+```
+
+You'll get something like this:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/13215662/57336429-4bcb3e00-713f-11e9-8231-8ff795658585.png" width="384">
+</p>
+
+You may specify several issues per PR. As soon as your PR will be merged, the issues will be automatically closed.
 
 ## About the project
 
