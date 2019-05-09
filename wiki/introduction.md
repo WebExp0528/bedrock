@@ -72,6 +72,7 @@ You may specify several issues per PR. As soon as your PR will be merged, the is
 
 ## About the project
 
+<img align="center" src="https://github.com/prometheonsystems/bedrock-client2/blob/introduction/wiki/tableau.png" width="100%">
 
 ### What we are building
 
