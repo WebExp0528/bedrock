@@ -1,7 +1,10 @@
 {
-  "files.exclude": {
-    "src/.next": true,
-    "src/out": true
+  "files.trimTrailingWhitespace": true,
+  "search.useGlobalIgnoreFiles": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "tslint.alwaysShowRuleFailuresAsWarnings": false,
+  "tslint.ignoreDefinitionFiles": false,
+  "files.associations": {
+    ".nowignore": "gitignore",
   },
-  "files.trimTrailingWhitespace": true
 }

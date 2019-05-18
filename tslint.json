@@ -2,9 +2,10 @@
   "extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
   "linterOptions": {
     "exclude": [
-      "node_modules",
       "dist",
-      "src/out"
+      "node_modules",
+      "out",
+      "wiki"
     ]
   },
   "rules": {
@@ -13,6 +14,19 @@
     "interface-name": false,
     "space-before-function-paren": true,
     "semicolon": [true, "never"],
-    "no-trailing-whitespace": true
+    "no-trailing-whitespace": true,
+    "trailing-comma": [true, {
+      "multiline": {
+        "objects": "always",
+        "arrays": "always",
+        "functions": "never",
+        "typeLiterals": "always",
+        "imports": "always"
+      }
+    }],
+    "variable-name": [true, "allow-leading-underscore", "allow-pascal-case"],
+    "comment-format": [true, "check-space", "check-lowercase", {
+      "ignore-words": ["TODO:X", "TODO:W"]
+    }]
   }
 }

@@ -2,20 +2,18 @@
   "extends": "./tsconfig.electron.json",
   "compilerOptions": {
     "noEmit": true,
-
     // "allowJs": true,
     // "lib": ["dom", "es2017"],
-    // "preserveConstEnums": true,
     // "removeComments": false,
     // "skipLibCheck": true,
   },
   "include": [
     "src/**/*.ts",
-    "src/**/*.tsx"
+    "src/**/*.tsx",
+    "pages/**/*.tsx",
+    "types/**/*.d.ts",
   ],
   "exclude": [
-    "node_modules",
-    "src/.next",
-    "src/out"
+    "src/.next"
   ]
 }
