@@ -1,20 +1,15 @@
-# Standard gitignore
-
-.DS_Store
-.env.local
-.next
-node_modules
+# NextJS
 dist
 out
+now.json
 
-# Nowignore
-
-.vscode
+# Other
 .huskyrc.json
 .nvmrc
-.nowignore
-types
-wiki
+.todolintrc.json
+.vscode
 README.md
 tslint.json
-now.json
+types
+typings
+wiki

@@ -1,23 +1,9 @@
 {
+  "extends": "./tsconfig.json",
   "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "~/*": ["./src/*"],
-      "@types": ["./types"],
-      "@types/*": ["./types/*"],
-      "@assets/*": ["./assets/*"]
-    },
-    "esModuleInterop": true,
-    "sourceMap": true,
-    "outDir": "dist",
-    "jsx": "preserve",
-    "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noImplicitAny": true,
-    "strictNullChecks": true,
-    "forceConsistentCasingInFileNames": true,
-    "noImplicitReturns": true
+    "noEmit": false,
+    "outDir": "dist"
   },
+  "include": [],
   "files": ["src/electron-main.ts"]
 }

@@ -1,8 +1,5 @@
 import { config as dotenv } from 'dotenv'
-import {
-  app,
-  BrowserWindow,
-} from 'electron'
+import { app, BrowserWindow } from 'electron'
 import isDev from 'electron-is-dev'
 // @ts-ignore: Cannot find module
 // TODO:W waiting this PR to be merged:
@@ -11,8 +8,8 @@ import prepareRenderer from 'electron-next'
 import { resolve } from 'path'
 import { format } from 'url'
 
-dotenv({ path: '.env.local' })
-dotenv()
+dotenv({ path: '.env' })
+dotenv({ path: '.env.default' })
 
 const { PORT = 4000 } = process.env
 
