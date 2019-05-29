@@ -3,10 +3,10 @@
 [<img height="200" alt="Bedrock" target="_blank" src="/assets/bedrock.svg" />](https://bedrock.ai)
 
 - [About the project](#about-the-project)
-- [Development culture](#development-culture)
 - [Techincal stack](#techincal-stack)
-- [Getting started](#getting-started)
+- [Development culture](#development-culture)
 - [Development flow](#development-flow)
+- [Getting started](#getting-started)
 
 ## About the project
 
@@ -54,19 +54,6 @@ We are using bunch of linters to remain the code clean and unified. That's a rea
 
 There a lot of places in the code under the question. Leave TODOs and make sure you've read the [Project TODOs](/wiki/todos.md) doc.
 
-## Getting started
-
-Once you've read the [README.md](/README.md) and this introduction, and your electron app is booted up, use these testing credentials on login page:
-
-```txt
-admin@bedrock.ai
-bedrock
-```
-
-This is accessing a remote server with testing data.
-
-Also, since you're reading this introduction, you are new to the project. Please, look into [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue), and take one of them as your first issue. This is one-time procedure. After this one you shouldn't get [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue).
-
 ## Development flow
 
 > If you need any help, you can contact [Jerry Green](https://t.me/jerrygreen) in Telegram.
@@ -75,7 +62,7 @@ Also, since you're reading this introduction, you are new to the project. Please
 
 And if you have questions related to an issue - please, formulate your concerns in the issue, so we can keep track of it.
 
-Once you've done with your first issue, get to the "[Project issues](https://github.com/prometheonsystems/bedrock-client2/projects/1?fullscreen=true)" - you can assign any issue you want from the "To do" to yourself.
+Verified issues (i.e. issues that should be solved) are listed in "[Project issues](https://github.com/prometheonsystems/bedrock-client2/projects/1?fullscreen=true)" - you can assign any issue you want from the "To do" to yourself.
 
 ### 2. File (create) new issues, create PRs
 
@@ -84,3 +71,16 @@ If you find some bugs or places in code to improve - please, don't hesitate, [fi
 For further reading of the development flow, please, read [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
 
 We want to have OpenSource-like development flow, so all of these is very important.
+
+## Getting started
+
+Once you've read the [README.md](/README.md), and your electron app is booted up, use these testing credentials on login page:
+
+```txt
+admin@bedrock.ai
+bedrock
+```
+
+This is accessing a remote server with testing data.
+
+Also, since you're reading this introduction, you are new to the project. Please, look at [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue) labeled issues, and take one of them as your first issue. This is one-time procedure. They are not listed in project issues to not being accidentally solved.
