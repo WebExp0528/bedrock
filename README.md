@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://bedrock.ai">
-    <img height="200" alt="Bedrock" src="/assets/bedrock.svg" />
+    <img height="200" alt="Bedrock" target="_blank" src="/assets/bedrock.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://circleci.com/gh/prometheonsystems/bedrock-client2">
-    <img height="20" alt="CircleCI" src="https://circleci.com/gh/prometheonsystems/bedrock-client2.svg?style=shield&circle-token=05d1586190f934f95d9337630ac88c2e64fa2efd" />
+    <img height="20" alt="CircleCI" target="_blank" src="https://circleci.com/gh/prometheonsystems/bedrock-client2.svg?style=shield&circle-token=05d1586190f934f95d9337630ac88c2e64fa2efd" />
   </a>
 </p>
 
