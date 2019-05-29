@@ -67,7 +67,7 @@ Also, since you're reading this introduction, you are new to the project. Please
 
 ## Development flow
 
-> If you need any help, you can contact me, Jerry Green - [https://t.me/jerrygreen](https://t.me/jerrygreen) in Telegram.
+> If you need any help, you can contact [Jerry Green](https://t.me/jerrygreen) in Telegram.
 
 ### 1. Solve (close) issues
 
