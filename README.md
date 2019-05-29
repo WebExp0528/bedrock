@@ -1,5 +1,3 @@
-[<img height="200" alt="Bedrock" target="_blank" src="/assets/bedrock.svg" />](https://bedrock.ai)
-
 # Bedrock Client
 
 [<img height="20" alt="CircleCI" target="_blank" src="https://circleci.com/gh/prometheonsystems/bedrock-client2.svg?style=shield&circle-token=05d1586190f934f95d9337630ac88c2e64fa2efd" />](https://circleci.com/gh/prometheonsystems/bedrock-client2)
@@ -15,7 +13,7 @@ This is an Electron/Web client for Bedrock. [Backend is here](https://github.com
 
 ## Installation
 
-> Make sure you've read the [Introduction](wiki/introduction.md)
+> Make sure you've read the [`introduction.md`](/wiki/introduction.md)
 
 ```bash
 echo '# override envs here' > .env

@@ -1,5 +1,7 @@
 # Introduction
 
+[<img height="200" alt="Bedrock" target="_blank" src="/assets/bedrock.svg" />](https://bedrock.ai)
+
 - [About the project](#about-the-project)
 - [Development culture](#development-culture)
 - [Techincal stack](#techincal-stack)
