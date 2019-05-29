@@ -65,7 +65,7 @@ bedrock
 
 This is accessing a remote server with testing data.
 
-Also, since you're reading this introduction, you are new to the project. Please, look into [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue)`, and take one of them as your first issue. This is one-time procedure. After this one you shouldn't get [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue).
+Also, since you're reading this introduction, you are new to the project. Please, look into [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue), and take one of them as your first issue. This is one-time procedure. After this one you shouldn't get [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue).
 
 ## Development flow
 
