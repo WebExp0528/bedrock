@@ -1,6 +1,6 @@
 {
   "line-length": false,
   "no-inline-html": {
-    "allowed_elements": ["a", "p", "img", "kbd"]
+    "allowed_elements": ["p", "img", "kbd"]
   }
 }

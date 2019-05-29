@@ -1,16 +1,8 @@
+[<img height="200" alt="Bedrock" target="_blank" src="/assets/bedrock.svg" />](https://bedrock.ai)
+
 # Bedrock Client
 
-<p align="center">
-  <a href="https://bedrock.ai">
-    <img height="200" alt="Bedrock" target="_blank" src="/assets/bedrock.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://circleci.com/gh/prometheonsystems/bedrock-client2">
-    <img height="20" alt="CircleCI" target="_blank" src="https://circleci.com/gh/prometheonsystems/bedrock-client2.svg?style=shield&circle-token=05d1586190f934f95d9337630ac88c2e64fa2efd" />
-  </a>
-</p>
+[<img height="20" alt="CircleCI" target="_blank" src="https://circleci.com/gh/prometheonsystems/bedrock-client2.svg?style=shield&circle-token=05d1586190f934f95d9337630ac88c2e64fa2efd" />](https://circleci.com/gh/prometheonsystems/bedrock-client2)
 
 > It's recommended to use [vscode](https://code.visualstudio.com/) within this project [`[and these extensions]`](wiki/vscode-recommendations.md)
 
