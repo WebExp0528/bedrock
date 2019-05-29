@@ -66,34 +66,6 @@ We are tackling this vision piece by piece.
 
 Our first step is to build the Bedrock Dataspace Browser - a personal, private database & a browser to navigate your DB.
 
-### Step 1: The Bedrock Dataspace Browser
-
-A person uses it to suck in all their data into a private, secure store. Then it’s organized for them into a secure, searchable record.
-
-We are building pipelines to 3rd party apps, a chrome extension, other "data capture" features, and a very basic interface to browse the database and find things.
-
-**data pipelines**
-
-_3rd party apps_
-
-- gmail
-- plaid for banking (WIP to migrate away from...)
-
-_passive data capture_
-
-- local folder mirror
-- "listener"
-
-_active capture_
-
-- chrome extension
-- "Magic Box" -- dump any data in (text, image, url, etc) and it gets parsed, structured, and piped into your DB.
-
-**user interface**
-
-- show all data
-- browse
-- filter, sort, and search
+Some further details are listed here - [roadmap.md](/wiki/roadmap.md)
 
 <img src="/wiki/images/welcome.png" width="100%">
-```
