@@ -1,15 +1,16 @@
 # Introduction
 
 - [About the project](#about-the-project)
-- [Techincal information](#techincal-information)
+- [Development culture](#development-culture)
+- [Techincal stack](#techincal-stack)
 - [Getting started](#getting-started)
 - [Development flow](#development-flow)
 
 ## About the project
 
-We have huge plans and roadmap. Please, read this section - [Aboout Project](/wiki/about-project.md).
+We have huge plans and roadmap. Regarding the project vision and goals, read this section please - [Aboout Project](/wiki/about-project.md).
 
-## Techincal information
+## Techincal stack
 
 There are some major libs we use:
 
@@ -41,6 +42,16 @@ I've mentioned we are using react hooks. Basic hooks come with React. But this c
   <img src="https://raw.githubusercontent.com/schettino/react-request-hook/master/other/type-hint.png" width="599">
 </p>
 
+## Development culture
+
+### Linters
+
+We are using bunch of linters to remain the code clean and unified. That's a reason why Visual Studio Code is recommended - they will work out of the box for you. You can see all the errors while developing with no setup. For other IDEs you should make sure they are working, by yourself. If you won't setup - it will be inconvenient for you to develop, but the dirty code will not get to the repository anyway - because of the checks on github.
+
+### Project TODOs
+
+There a lot of places in the code under the question. Leave TODOs and make sure you've read the [Project TODOs](/wiki/todos.md) doc.
+
 ## Getting started
 
 Once you've read the [README.md](/README.md) and this introduction, and your electron app is booted up, use these testing credentials on login page:
@@ -58,7 +69,7 @@ Also, since you're reading this introduction, you are new to the project. Please
 
 > If you need any help, you can contact me, Jerry Green - [https://t.me/jerrygreen](https://t.me/jerrygreen) in Telegram.
 
-1. Solve (close) issues
+### 1. Solve (close) issues
 
 And if you have questions related to an issue - please, formulate your concerns in the issue, so we can keep track of it.
 
