@@ -1,6 +1,10 @@
 # Bedrock Client
 
 <p align="center">
+  [<img height="200" alt="Bedrock" src="/assets/bedrock.svg" />](https://bedrock.ai)
+</p>
+
+<p align="center">
   [![CircleCI](https://circleci.com/gh/prometheonsystems/bedrock-client2.svg?style=shield&circle-token=05d1586190f934f95d9337630ac88c2e64fa2efd)](https://circleci.com/gh/prometheonsystems/bedrock-client2)
 </p>
 
