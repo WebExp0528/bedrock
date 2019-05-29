@@ -65,7 +65,7 @@ bedrock
 
 This is accessing a remote server with testing data.
 
-Also, since you're reading this introduction, you are new to the project. Please, look into [<kbd>good-first-issue</kbd>`s](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue), and take one of them as your first issue. This is one-time procedure. After this one you shouldn't get <kbd>good-first-issue</kbd>s.
+Also, since you're reading this introduction, you are new to the project. Please, look into [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue)`, and take one of them as your first issue. This is one-time procedure. After this one you shouldn't get [<kbd>good-first-issue</kbd>](https://github.com/prometheonsystems/bedrock-client2/labels/good-first-issue).
 
 ## Development flow
 
@@ -75,7 +75,7 @@ Also, since you're reading this introduction, you are new to the project. Please
 
 And if you have questions related to an issue - please, formulate your concerns in the issue, so we can keep track of it.
 
-Once you've done with your first issue, don't touch <kbd>good-first-issue</kbd> anymore - left it for others. Since that, use "[Project issues](https://github.com/prometheonsystems/bedrock-client2/projects/1?fullscreen=true)" - you can assing any issue you want from the "To do" list.
+Once you've done with your first issue, get to the "[Project issues](https://github.com/prometheonsystems/bedrock-client2/projects/1?fullscreen=true)" - you can assign any issue you want from the "To do" to yourself.
 
 ### 2. File (create) new issues, create PRs
 
