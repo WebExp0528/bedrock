@@ -4,6 +4,8 @@
 
 This is an Electron/Web client for Bedrock. [Backend is here](https://github.com/prometheonsystems/bedrock-backend).
 
+Make sure you've read the [Introduction](wiki/introduction.md)
+
 ## Requirements
 
 - [Yarn](https://yarnpkg.com/en/docs/install) [1.15.2]
