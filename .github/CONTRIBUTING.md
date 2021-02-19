@@ -20,9 +20,9 @@ Have a look for this cli helper: [`git-pr`](https://github.com/JerryGreen/git-pr
 
 Please, regularly make `git pull origin master` to have your branch stay up to date.
 
-### 5. We discuss it, fix it, until it's merged
+### 5. We discuss it, fix it, untill it's merged
 
-In Pull Request, please, note the issues you are fixing, in the description. Make descriptions something like this:
+In Pull Request, please, note the issues you are fixing, in the description. Make descriptions like this (or, more detailed):
 
 ```txt
 A lot of core functionality
@@ -32,10 +32,11 @@ Closes #11
 
 Notice the `Closes #11`
 
-You'll get this:
+You'll get something like this:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/13215662/57336429-4bcb3e00-713f-11e9-8231-8ff795658585.png" width="384">
 </p>
 
-Because of this mark, Github will automatically close related issue(s) when the PR is merged. You may specify several issues per PR in such a way.
+You may specify several issues per PR. As soon as your PR will be merged, the issues will be automatically closed.
+

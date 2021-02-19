@@ -48,7 +48,7 @@ I've mentioned we are using react hooks. Basic hooks come with React. But this c
 
 ### Linters
 
-We are using bunch of linters to remain the code clean and unified. That's a reason why Visual Studio Code is recommended - they will work out of the box for you. You can see all the errors while developing, with no setup. For other IDEs you should make sure they are working, by yourself. If you won't setup - it will be inconvenient for you to develop, but the dirty code will not get to the repository anyway - because of the checks on github.
+We are using bunch of linters to remain the code clean and unified. That's a reason why Visual Studio Code is recommended - they will work out of the box for you. You can see all the errors while developing with no setup. For other IDEs you should make sure they are working, by yourself. If you won't setup - it will be inconvenient for you to develop, but the dirty code will not get to the repository anyway - because of the checks on github.
 
 ### Project TODOs
 
