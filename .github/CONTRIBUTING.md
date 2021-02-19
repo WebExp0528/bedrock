@@ -6,13 +6,15 @@
 
 ### 2. [You take an issue](https://github.com/prometheonsystems/bedrock-client2/projects/1?fullscreen=true)
 
-[You take an issue](https://github.com/prometheonsystems/bedrock-client2/projects/1?fullscreen=true), assign it to yourself (note, it's not any issue - only these that are in the github project called "Development", i.e. verified issues - feel free to take any of these)
+Assign it to yourself (note, it's not any issue - only these that are in the github project called "Development", i.e. verified issues - feel free to take any of these)
 
-### 3. Create your branch along with PR
+### 3. You create your branch along with PR
 
 When you start doing something, create a branch & PR for it from `master` branch.
 
-> Have a look for this cli helper: [`git-pr`](https://github.com/JerryGreen/git-pr). You can simply do `git-pr foo` in terminal, and it will create a branch, create a blank commit with a message, and will open a github link to create a PR. Quite useful. You should do the same, whether you're using the cli or not
+Have a look for this cli helper: [`git-pr`](https://github.com/JerryGreen/git-pr). By simply doing `git-pr foo` in terminal, it will create a branch, create a blank commit with a message, and will open a github link to create a PR. Quite useful. You should do all of that, whether you're using the cli or not.
+
+> Hint: by doing just `git-pr` - it opens existing PR of branch you're in.
 
 ### 4. You code, make commits, push it to your branch
 
@@ -37,3 +39,4 @@ You'll get something like this:
 </p>
 
 You may specify several issues per PR. As soon as your PR will be merged, the issues will be automatically closed.
+
